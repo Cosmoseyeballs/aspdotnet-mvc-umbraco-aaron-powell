@@ -15,7 +15,7 @@ namespace aspdotnet_mvc_umbraco_aaron_powell
         {
             return new CustomWebBootManager(this);
         }
-    }
+    }   
 
     class CustomWebBootManager : WebBootManager
     {
